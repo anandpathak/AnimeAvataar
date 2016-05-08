@@ -10,3 +10,4 @@ haarcascades*
 shape_predictor_68_face_landmarks.dat
 testing_with_face_landmarks.xml
 training_with_face_landmarks.xml
+exec/*
